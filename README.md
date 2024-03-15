@@ -1,5 +1,5 @@
 <h1 align="center"> HTML5</h1>
-<H2>Nesse repositório você encontrará códigos que testam os conhecimentos obtidos durante o curso de HTML5 e também pode servir como uma bibliota de tags com indicação das suas funções.</H2>
+<H2>Nesse repositório você encontrará códigos com os conhecimentos obtidos durante o curso de HTML5 e também pode servir como uma bibliota de tags com indicação das suas funções.</H2>
 <h3>Descrição</h3>
 <h4>ex001</h4>
 - Hello World;
